@@ -1,0 +1,25 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "Car game",
+  "main": "script.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaMolchanova/carGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatyanaMolchanova/carGame/issues"
+  },
+  "homepage": "https://github.com/TatyanaMolchanova/carGame#readme",
+  "devDependencies": {
+    "electron": "^6.0.10",
+    "electron-packager": "^14.0.6",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
